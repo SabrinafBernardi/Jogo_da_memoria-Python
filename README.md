@@ -22,4 +22,4 @@ Este foi um dos projetos que desenvolvi durante meus estudos de programação, c
 Um projeto simples, mas que me ajudou bastante a colocar os conhecimentos em prática.
 
 
-![Jogo da Memória](./jogo_memoria.png)
+![Jogo da Memória](./jogo_memoria.png.png)
