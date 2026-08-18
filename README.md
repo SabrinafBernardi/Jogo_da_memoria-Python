@@ -20,3 +20,6 @@ O objetivo é encontrar todos os pares de cartas iguais, testando a memória e a
 Este foi um dos projetos que desenvolvi durante meus estudos de programação, com o objetivo de praticar **Python, lógica de programação, funções, listas, condições e eventos**.
 
 Um projeto simples, mas que me ajudou bastante a colocar os conhecimentos em prática.
+
+
+![Jogo da Memória](./jogo_memoria.png)
